@@ -45,4 +45,4 @@ Esse modelo garante transparência, controle e consistência na evolução dos p
 - Aplicação exclusivamente front-end  
 - Persistência de dados temporária (memória ou local storage)  
 - Foco em prototipação, validação de fluxos e usabilidade  
-- Evolução futura prevista com integração back-end
+- Evolução futura prevista com integração back-end(autenticação,banco de dados e etc)
