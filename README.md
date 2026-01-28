@@ -17,41 +17,8 @@ As reuniões são organizadas por **áreas**, cada uma com seus respectivos tóp
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/523c74e3-0f62-444f-a6af-e54c41ff6380" />
 
 
-### RH (Recursos Humanos)
-- Cadastro de colaboradores  
-- Recrutamento e seleção  
-- Folha de pagamento  
-- Controle de ponto  
-- Treinamento e capacitação  
+  
 
-### TI (Tecnologia da Informação)
-- Gestão de usuários e permissões  
-- Suporte técnico (chamados)  
-- Infraestrutura  
-- Segurança da informação  
-- Manutenção de sistemas  
-
-### Operacional
-- Gestão de operações  
-- Controle de atividades diárias  
-- Monitoramento de processos  
-- Ordens de serviço  
-- Indicadores operacionais  
-
-### Produção
-- Planejamento e Controle da Produção (PCP)  
-- Ordens de produção  
-- Controle de estoque de produção  
-- Controle de qualidade  
-- Acompanhamento da linha de produção  
-
-### Segurança do Trabalho
-- Normas de segurança (NRs)  
-- Uso de EPIs  
-- Registro de acidentes e incidentes  
-- Análise de riscos  
-- Treinamentos de segurança  
-- Inspeções e auditorias internas  
 
 ---
 
@@ -65,3 +32,10 @@ As reuniões são organizadas por **áreas**, cada uma com seus respectivos tóp
 Na primeira versão, o escopo será focado no gerenciamento do ciclo completo de reuniões, incluindo organização, registro, acompanhamento de decisões e rastreabilidade de ações.
 Como objetivo estratégico, o sistema será evoluído para uma solução abrangente de gestão de projetos, incorporando suporte a metodologias consolidadas como Kanban, Scrum e demais metodologias ágeis, além da criação, visualização e controle de cronogramas de produtos.
 Com sua evolução contínua, a plataforma passará a atuar como um sistema integrado de controle de fluxos organizacionais, permitindo padronização de processos, governança operacional e apoio à tomada de decisão, atendendo diferentes tipos de organizações, desde ambientes industriais até instituições de grande escala e âmbito governamental  federal e judicial.
+===
+uma empresa 
+na primeira versão do brain stoming sera voltado a apoio a reunião
+1. Reunião como núcleo do sistema
+ A maioria das ferramentas trata reuniões como recurso secundário. O sistema pode usar a reunião como ponto central de geração de tarefas, decisões, riscos e indicadores de projeto.
+2. Rastreabilidade total
+ Vincular decisões de reuniões a tarefas, épicos, sprints, cronogramas e responsáveis, mantendo histórico auditável de quem decidiu, quando e com qual impacto.
