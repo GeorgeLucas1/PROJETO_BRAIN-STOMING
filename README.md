@@ -60,3 +60,7 @@ As reuniões são organizadas por **áreas**, cada uma com seus respectivos tóp
 - Persistência de dados limitada à sessão ou local storage  
 - Foco em prototipação e validação de interface e fluxos
 - versão futura com back-end em breve
+- O sistema é uma iniciativa autoral voltada à criação de uma plataforma de controle e gestão de reuniões corporativas.
+Na primeira versão, o escopo será focado no gerenciamento do ciclo completo de reuniões, incluindo organização, registro, acompanhamento de decisões e rastreabilidade de ações.
+Como objetivo estratégico, o sistema será evoluído para uma solução abrangente de gestão de projetos, incorporando suporte a metodologias consolidadas como Kanban, Scrum e demais metodologias ágeis, além da criação, visualização e controle de cronogramas de produtos.
+Com sua evolução contínua, a plataforma passará a atuar como um sistema integrado de controle de fluxos organizacionais, permitindo padronização de processos, governança operacional e apoio à tomada de decisão, atendendo diferentes tipos de organizações, desde ambientes industriais até instituições de grande escala e âmbito governamental  federal e judicial.
